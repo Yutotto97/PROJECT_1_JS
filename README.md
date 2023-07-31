@@ -4,7 +4,6 @@
 * Done in : 2 hours
 * Languages used : JS, html
 
----
 ## Purpose of the project
 The html is a todolist, where I can:
 * Add item
